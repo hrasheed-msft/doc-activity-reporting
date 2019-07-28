@@ -1,3 +1,11 @@
+#########################################################################################
+# File Name: docs_github_wrapper.py
+# Date: 07/28/2019
+# Author: Hassan Rasheed (hrasheed@microsoft.com)
+# Description: A wrapper for the GitHub v3 and v4 APIs that makes it easy to aggregate 
+#               activity history at the file level across multiple PRs in a date range.
+#########################################################################################
+
 import requests
 import json
 from lxml import html
