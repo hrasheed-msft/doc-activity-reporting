@@ -1,3 +1,10 @@
+#########################################################################################
+# File Name: docs_github_wrapper_test1.py
+# Date: 07/28/2019
+# Author: Hassan Rasheed
+# Description: Test code for the docs GitHub wrapper. This test uses a service label query.
+#########################################################################################
+
 from docs_github_wrapper import *
 
 # Please create a Personal Access Token in GitHub
